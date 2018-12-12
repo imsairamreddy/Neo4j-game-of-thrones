@@ -1,2 +1,2 @@
 # Neo4j-game-of-thrones
-Game of Thrones characters can be used as a dataset to implement in  a database and the characters have common relations among them they can be connected using a graph database NEO4J
+Game of Thrones characters and relationships among them are implemented using NEO4J.
